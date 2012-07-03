@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{9F076F2E-4E8F-2CBD-B3CF-1088787393E3}") = "Hippo", "Hippo.csproj", "{6AAB331F-5A93-7CE5-9343-665A0130149F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AAB331F-5A93-7CE5-9343-665A0130149F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAB331F-5A93-7CE5-9343-665A0130149F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAB331F-5A93-7CE5-9343-665A0130149F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAB331F-5A93-7CE5-9343-665A0130149F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

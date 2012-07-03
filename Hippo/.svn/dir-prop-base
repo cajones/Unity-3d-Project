@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 61
+Hippo.5.1.ReSharper.user
+Hippo.suo
+_ReSharper.Hippo
+obj
+Temp
+
+END

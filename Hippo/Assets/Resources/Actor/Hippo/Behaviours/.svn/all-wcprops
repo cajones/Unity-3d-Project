@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/30/trunk/Hippo/Assets/Resources/Actor/Hippo/Behaviours
+END
+EatBallAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/Hippo/Assets/Resources/Actor/Hippo/Behaviours/EatBallAction.cs
+END
+HippoController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/30/trunk/Hippo/Assets/Resources/Actor/Hippo/Behaviours/HippoController.cs
+END
+GameInteraction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/28/trunk/Hippo/Assets/Resources/Actor/Hippo/Behaviours/GameInteraction.cs
+END

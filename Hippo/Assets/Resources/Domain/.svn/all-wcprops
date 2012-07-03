@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/29/trunk/Hippo/Assets/Resources/Domain
+END
+Tag.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/Hippo/Assets/Resources/Domain/Tag.cs
+END
+Hippo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26/trunk/Hippo/Assets/Resources/Domain/Hippo.cs
+END
+Preferences.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/Hippo/Assets/Resources/Domain/Preferences.cs
+END
+Game.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26/trunk/Hippo/Assets/Resources/Domain/Game.cs
+END
+GameRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/Hippo/Assets/Resources/Domain/GameRepository.cs
+END
